@@ -2,6 +2,8 @@
 
 This project involves **data cleaning** and **exploratory data analysis (EDA)** using SQL, focusing on **layoffs across various companies between 2020 and 2022**. The objective is to identify trends, outliers, and patterns from a dataset of layoffs during the COVID-19 pandemic and beyond.
 
+---
+
 ##  Data Cleaning Steps
 
 Performed using MySQL in multiple stages:
@@ -23,7 +25,8 @@ Performed using MySQL in multiple stages:
 
 5. **Column Cleanup**  
    - Dropped temporary columns like `row_num`.
-
+  
+---
 
 ##  Exploratory Data Analysis (EDA)
 
