@@ -120,8 +120,8 @@ Key questions and insights explored:
 2. Import the dataset (`layoffs_dataset.csv`) into your SQL database.
 
 3. Run the SQL scripts:
-   - `data_cleaning.sql` to clean the dataset.
-   - `eda_queries.sql` to analyze and explore.
+   - `data cleaning.sql` to clean the dataset.
+   - `EDA.sql` to analyze and explore.
 
 ---
 
